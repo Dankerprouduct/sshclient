@@ -1,0 +1,8 @@
+c:\users\danker\documents\visual studio 2015\Projects\sshclient\sshclient\bin\Debug\sshclient.exe.config
+c:\users\danker\documents\visual studio 2015\Projects\sshclient\sshclient\bin\Debug\sshclient.exe
+c:\users\danker\documents\visual studio 2015\Projects\sshclient\sshclient\bin\Debug\sshclient.pdb
+c:\users\danker\documents\visual studio 2015\Projects\sshclient\sshclient\bin\Debug\Renci.SshNet.dll
+c:\users\danker\documents\visual studio 2015\Projects\sshclient\sshclient\bin\Debug\Renci.SshNet.xml
+c:\users\danker\documents\visual studio 2015\Projects\sshclient\sshclient\obj\Debug\sshclient.csprojResolveAssemblyReference.cache
+c:\users\danker\documents\visual studio 2015\Projects\sshclient\sshclient\obj\Debug\sshclient.exe
+c:\users\danker\documents\visual studio 2015\Projects\sshclient\sshclient\obj\Debug\sshclient.pdb
